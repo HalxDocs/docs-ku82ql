@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-bmheyb.biggamingwin.online/sitemap.xml
